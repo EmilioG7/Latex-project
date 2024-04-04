@@ -7,4 +7,7 @@ Per qualsiasi cosa vi invito a contattarmi direttamente alla mail EMILIO.GROPPI@
 
 # progetti all'attivo
 ### Dispense Analisi 2
-al momento è stata creata l'intestazione di base e le prime lezioni. chiunque voglia partecipare, si prenda una sezione degli appunti e cominci a scrivere!!
+Al momento è stata creata l'intestazione di base e le prime lezioni. chiunque voglia partecipare, si prenda una sezione degli appunti e cominci a scrivere!!
+
+Le slide da cui stiamo copiando le lezioni sono disponibili al seguente link:
+https://drive.google.com/file/d/1VIphOkm_LSYTDs05-EEm7saM1XbL1nJ3/view?usp=sharing
