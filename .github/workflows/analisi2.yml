@@ -9,9 +9,9 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: Analisi 2/Analisi 2.tex
+          root_file: Analisi_2/dispense_analisi_2.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
           name: PDF
-          path: Analisi 2/Analisi 2.pdf
+          path: Analisi_2/dispense_analisi_2.pdf
